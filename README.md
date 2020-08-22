@@ -2,6 +2,8 @@
 
 A place for memory keeping. We should start a daily writing habit.
 
+![alt text](/public/images/BlogPlace.PNG)
+
 The following features are used to create BlogPlace.
 
 ```
