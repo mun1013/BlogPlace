@@ -14,7 +14,7 @@ Bootstrap
 
 ## Installation
 
-Install [node]https://nodejs.org/en/ 
+Install [node](https://nodejs.org/en/) 
 
 Use the npm package manager to install packages.
 
@@ -22,7 +22,7 @@ Use the npm package manager to install packages.
 npm install
 ```
 
-Install [mongoDB]https://www.mongodb.com/try/download/community
+Install [mongoDB](https://www.mongodb.com/try/download/community)
 
 Now, we need to create a database folder for mongoDB
 
